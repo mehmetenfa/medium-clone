@@ -1,10 +1,10 @@
-import SignUp from "./pages/SignUp";
+import AppRouter from './router/AppRouter'
 
 
 function App() {
   return (
     <div className="App">
-      <SignUp />
+      <AppRouter />
     </div>
   );
 }
