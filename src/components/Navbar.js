@@ -2,7 +2,7 @@ import React from "react";
 
 export default function Navbar() {
   return (
-    <div className="flex items-center justify-between border-b border-black bg-yellow-400 w-screen h-[5rem]">
+    <div className="flex items-center justify-between border-b border-black bg-yellow-500 w-screen h-[5rem]">
       <div className="w-[161px] ml-[20rem]">
         <img
           src="https://miro.medium.com/max/640/1*s986xIGqhfsN8U--09_AdA.webp"
